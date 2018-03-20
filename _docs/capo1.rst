@@ -43,7 +43,7 @@ Art. 2   Principi dell'attività amministrativa
 Art. 3   Classificazione dei procedimenti amministrativi e relativi termini di adempimento
 -------------------------------------------------------------------------------------------
 
-1.I procedimenti amministrativi di competenza del Comune ed i relativi termini di conclusione sono individuati:
+1. I procedimenti amministrativi di competenza del Comune ed i relativi termini di conclusione sono individuati:
 
    a) nella  tabella  classificatoria predisposta, sulla scorta di  apposita ricognizione effettuata in seno alle diverse unità organizzative dell’Ente, allegata al presente Regolamento e che costituisce parte integrante e sostanziale dello stesso; 
    
