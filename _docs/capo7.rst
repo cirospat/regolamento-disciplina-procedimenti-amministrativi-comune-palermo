@@ -17,5 +17,6 @@ Per quanto non espressamente previsto nel presente regolamento, si applicheranno
 |
 
 Art. 37 - Entrata in vigore
+---------------------------
 
 Il presente Regolamento e i tempi di conclusione dei procedimenti amministrativi, entrano in vigore il venticinquesimo giorno successivo a quello della sua pubblicazione. 
