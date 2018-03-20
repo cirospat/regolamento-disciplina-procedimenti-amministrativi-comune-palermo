@@ -9,25 +9,25 @@ Art. 1 - Oggetto, riferimenti e definizioni
 
 2. Le  disposizioni  del  presente  Regolamento,  nel  rispetto  dello  Statuto,  disciplinano  in  particolare  le   modalità  di  svolgimento  dell'attività  amministrativa,  la  gestione  dei  procedimenti, nel rispetto del sistema costituzionale e delle garanzie del cittadino nei riguardi dell'azione amministrativa. Ai fini del presente regolamento si intendono: 
 
-   a)per ”procedimento amministrativo“, la sequenza di atti finalizzata alla definizione della decisione   dell'amministrazione rispetto ad   un'istanza   o   ad   un'attività   avviata   d'ufficio; 
+   a) per ”procedimento amministrativo“, la sequenza di atti finalizzata alla definizione della decisione   dell'amministrazione rispetto ad   un'istanza   o   ad   un'attività   avviata   d'ufficio; 
    
    b)per ”istruttoria“,    la    fase    del    procedimento amministrativo    preordinata    all'acquisizione  di  ogni  elemento  informativo  utile  per  la  formalizzazione  della  decisione dell'amministrazione; 
    
-   c)per ”provvedimento“, l'atto esplicito conclusivo del procedimento amministrativo; 
+   c) per ”provvedimento“, l'atto esplicito conclusivo del procedimento amministrativo; 
    
-   d)per ”conferenza   di   servizi“,   la   sede   di   confronto   nell’ambito   della   quale   l’Amministrazione  acquisisce  elementi  istruttori  utili,  nonché  intese,  concerti,  nulla  osta o assensi, comunque denominati, da parte di altri uffici, servizi o amministrazioni; 
+   d) per ”conferenza   di   servizi“,   la   sede   di   confronto   nell’ambito   della   quale   l’Amministrazione  acquisisce  elementi  istruttori  utili,  nonché  intese,  concerti,  nulla  osta o assensi, comunque denominati, da parte di altri uffici, servizi o amministrazioni; 
    
-   e)per ”segnalazione   certificata   di   inizio   di   attività“   (S.C.I.A.),   il   procedimento   amministrativo,  in  base  al  quale  si  consente  al  soggetto  interessato  di  iniziare  una  determinata    attività    privata,    coinvolgente    interessi    pubblici,    previo    avviso    all’Amministrazione  mediante  dichiarazione  dell’esistenza  dei  requisiti  e  presupposti  previsti da leggi o da atti amministrativi a contenuto generale;  
+   e) per ”segnalazione   certificata   di   inizio   di   attività“   (S.C.I.A.),   il   procedimento   amministrativo,  in  base  al  quale  si  consente  al  soggetto  interessato  di  iniziare  una  determinata    attività    privata,    coinvolgente    interessi    pubblici,    previo    avviso    all’Amministrazione  mediante  dichiarazione  dell’esistenza  dei  requisiti  e  presupposti  previsti da leggi o da atti amministrativi a contenuto generale;  
    
-   f)per   ”silenzio-assenso“,   il   procedimento   amministrativo,   riferito   a   determinate   tipologie di attività, coinvolgenti interessi pubblici e il cui esercizio sia subordinato ad un  atto  di  consenso  dell’Amministrazione.  In  base  al  silenzio–assenso  la  richiesta  dell’atto  di  consenso  si  considera  implicitamente  accolta  senza  necessità  di  un  provvedimento   espresso,   quando,   dalla   presentazione   della   domanda   descrittiva COMUNE DI PALERMO Elaborato dall’ U.O. Nucleo Ispettivo dell’attività,    sia    decorso    il    periodo    predeterminato    senza    rilievi    da    parte    dell’Amministrazione; 
+   f) per   ”silenzio-assenso“,   il   procedimento   amministrativo,   riferito   a   determinate   tipologie di attività, coinvolgenti interessi pubblici e il cui esercizio sia subordinato ad un  atto  di  consenso  dell’Amministrazione.  In  base  al  silenzio–assenso  la  richiesta  dell’atto  di  consenso  si  considera  implicitamente  accolta  senza  necessità  di  un  provvedimento   espresso,   quando,   dalla   presentazione   della   domanda   descrittiva COMUNE DI PALERMO Elaborato dall’ U.O. Nucleo Ispettivo dell’attività,    sia    decorso    il    periodo    predeterminato    senza    rilievi    da    parte    dell’Amministrazione; 
    
-   g)per ”comunicazione  all’Amministrazione“,  l’atto  formale  con  il  quale  il  soggetto  interessato  informa  l’Amministrazione  della  realizzazione  di  attività  non  soggette  a  titolo  autorizzatorio,  per  le  quali  può  essere  tuttavia  svolta  dall’Amministrazione  medesima  specifica  ponderazione  di  interessi,  relativa  alla  salvaguardia  di  interessi  pubblici, con eventuale adozione di atti inibitori; 
+   g) per ”comunicazione  all’Amministrazione“,  l’atto  formale  con  il  quale  il  soggetto  interessato  informa  l’Amministrazione  della  realizzazione  di  attività  non  soggette  a  titolo  autorizzatorio,  per  le  quali  può  essere  tuttavia  svolta  dall’Amministrazione  medesima  specifica  ponderazione  di  interessi,  relativa  alla  salvaguardia  di  interessi  pubblici, con eventuale adozione di atti inibitori; 
    
-   h)per ”interruzione  dei  termini“,  l’azzeramento  del  conteggio  dei  termini  nei  casi  previsti da leggi e regolamenti; 
+   h) per ”interruzione  dei  termini“,  l’azzeramento  del  conteggio  dei  termini  nei  casi  previsti da leggi e regolamenti; 
    
-   i)per ”sospensione  dei  termini“,  il  blocco  temporaneo  della  decorrenza  dei  termini  che  il  responsabile  del  procedimento  può  disporre  nei  casi  previsti  da  leggi  e  dal  presente regolamento; 
+   i) per ”sospensione  dei  termini“,  il  blocco  temporaneo  della  decorrenza  dei  termini  che  il  responsabile  del  procedimento  può  disporre  nei  casi  previsti  da  leggi  e  dal  presente regolamento; 
    
-   j)per ”responsabile  del  procedimento“  il  soggetto  responsabile  dell’istruttoria  del  procedimento,    di    una    o    più    fasi    dello    stesso,nonché    dell’emanazione    del    provvedimento finale; k)per ”Amministrazione“ o ”Comune“, il Comune di Palermo. 
+   j) per ”responsabile  del  procedimento“  il  soggetto  responsabile  dell’istruttoria  del  procedimento,    di    una    o    più    fasi    dello    stesso,nonché    dell’emanazione    del    provvedimento finale; k)per ”Amministrazione“ o ”Comune“, il Comune di Palermo. 
    
 |
 
