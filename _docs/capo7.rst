@@ -1,7 +1,4 @@
 =============================
-Capo 7 - Disposizioni finali
+Capo 7 -
 =============================
 
-Art. 19 - Disposizioni finali
------------------------------
-È abrogata ogni disposizione contenuta in regolamenti comunali in contrasto con quelle del presente regolamento.
