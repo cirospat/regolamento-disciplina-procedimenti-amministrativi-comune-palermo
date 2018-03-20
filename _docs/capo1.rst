@@ -47,7 +47,7 @@ Art. 3   Classificazione dei procedimenti amministrativi e relativi termini di a
 
    a) nella  tabella  classificatoria predisposta, sulla scorta di  apposita ricognizione effettuata in seno alle diverse unità organizzative dell’Ente, allegata al presente Regolamento e che costituisce parte integrante e sostanziale dello stesso; 
    
-   b)in  specifiche  disposizioni di legge  e/o  nei Regolamenti comunali adottati in applicazione di norme speciali disciplinanti specifici servizi. 
+   b) in  specifiche  disposizioni di legge  e/o  nei Regolamenti comunali adottati in applicazione di norme speciali disciplinanti specifici servizi. 
    
 2. I termini  di  conclusione  di  ciascun  procedimento  devono  essere  fissati  o  rideterminati secondo i principi di certezza, proporzionalità, economicità, efficacia ed efficienza dell’azione amministrativa. 
 
