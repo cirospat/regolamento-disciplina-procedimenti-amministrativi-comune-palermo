@@ -30,7 +30,7 @@ Art. 5 - Decorrenza del termine iniziale - Avvio del procedimento
 
 |
 
-Art. 6   Comunicazione di avvio del procedimento
+Art. 6 - Comunicazione di avvio del procedimento
 ------------------------------------------------
 
 1. La comunicazione di avvio del procedimento è personale. 
@@ -69,7 +69,7 @@ Essa è rivolta:
 
 |
 
-Art. 7 -Interruzione dei termini del procedimento
+Art. 7 - Interruzione dei termini del procedimento
 --------------------------------------------------
 
 1. L’interruzione  del  procedimento  ricorre  nei  soli  casi  previsti  dalla  legge  e  dal  presente regolamento. 
@@ -123,7 +123,7 @@ Art. 10 - Pareri e valutazioni tecniche in materia di tutela ambientale, paesagg
 
 |
 
-Art. 11   Durata del Procedimento
+Art. 11 - Durata del Procedimento
 ---------------------------------
 
 1. I  termini  per  la  conclusione  dei  procedimenti,  ove  non  siano  specificatamente  stabiliti  in  base  a  disposizioni  normative  nazionali  o  regionali  di  settore,  sono  quelli definiti nella tabella, allegata al presente Regolamento. 
