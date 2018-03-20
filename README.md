@@ -1,7 +1,9 @@
-Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo
+Regolamento "Disciplina dei procedimenti amministrativi del Comune di Palermo"
 ==================================================
 
-Questo repository contiene la documentazione relativa al [Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo](http://regolamento-funzionamento-urp-comune-palermo.readthedocs.io). 
+https://www.comune.palermo.it/js/server/normative/_24122012094364.pdf
+
+Questo repository contiene la documentazione relativa alla [Disciplina dei procedimenti amministrativi del Comune di Palermo](http://regolamento-procedimenti-amministrativi-comune-palermo.readthedocs.io). 
 
 
 Link
