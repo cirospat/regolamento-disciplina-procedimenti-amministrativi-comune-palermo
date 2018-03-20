@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Regolamento del funzionamento URP del comune di Palermo"
+settings_project_name = "Disciplina dei procedimenti amministrativi del Comune Palermo"
 settings_copyright_copyleft = 'comune Palermo'
 settings_editor_name = 'Ciro Spataro'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'regolamento-funzionamento-urp-comune-palermo'
+settings_basename = 'disciplina-procedimenti-amministrativi-comune-palermo'
 settings_file_name = 'index'
 
 # -- No need to change below here
