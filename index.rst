@@ -1,22 +1,11 @@
 ####################
-Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo.
+Regolamento "Disciplina dei procedimenti amministrativi del Comune di Palermo"
 ####################
 
 .. figure:: img/palermo.PNG
 
-Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094310.pdf>`_, approvato con Deliberazione di Consiglio Comunale n. 335 del 17/09/2008 (*Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico*).
+Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094364.pdf>`_, Approvato con Deliberazione di Consiglio Comunale n. 608 del 27/10/2011.
 
-.. figure:: img/urp.PNG
-
-+-------------------------------------------------------------------------------------------------------------------------------+
-| **Informazioni ulteriori**                                                                                                    |
-+-------------------------------------------------------------------------------------------------------------------------------+
-| - Portale `Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo                  |
-|                                                                                                                               |
-| - Email U.R.P.: urp@comune.palermo.it                                                                                         |
-|                                                                                                                               |
-| - `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_     |
-+-------------------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: img/ccbysa.png
 
