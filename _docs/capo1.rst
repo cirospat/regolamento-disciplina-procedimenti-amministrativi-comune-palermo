@@ -11,7 +11,7 @@ Art. 1 - Oggetto, riferimenti e definizioni
 
    a) per ”procedimento amministrativo“, la sequenza di atti finalizzata alla definizione della decisione   dell'amministrazione rispetto ad   un'istanza   o   ad   un'attività   avviata   d'ufficio; 
    
-   b)per ”istruttoria“,    la    fase    del    procedimento amministrativo    preordinata    all'acquisizione  di  ogni  elemento  informativo  utile  per  la  formalizzazione  della  decisione dell'amministrazione; 
+   b) per ”istruttoria“,    la    fase    del    procedimento amministrativo    preordinata    all'acquisizione  di  ogni  elemento  informativo  utile  per  la  formalizzazione  della  decisione dell'amministrazione; 
    
    c) per ”provvedimento“, l'atto esplicito conclusivo del procedimento amministrativo; 
    
