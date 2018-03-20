@@ -4,7 +4,9 @@ Regolamento "Disciplina dei procedimenti amministrativi del Comune di Palermo"
 **Fonte**:
 
 [Regolamento "Disciplina dei procedimenti amministrativi del Comune di Palermo](https://www.comune.palermo.it/js/server/normative/_24122012094364.pdf)
+
 e
+
 [Procedimenti amministrativi - Legge Regionale 5 aprile 2011 n. 5](https://www.comune.palermo.it/js/server/normative/_24122012094365.pdf)
 
 
